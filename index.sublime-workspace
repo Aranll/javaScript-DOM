@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"searchRequestHeader"
+			],
+			[
+				"UT",
+				"utf-8"
+			],
+			[
+				"sta",
+				"staffJob"
+			],
+			[
+				"staffn",
+				"staffNumber"
+			],
+			[
+				"staff",
+				"staffName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"setAttribute"
+			],
+			[
+				"p",
+				"placeholder"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"b",
+				"backgroundColor"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"ht",
+				"http-equiv	Attr"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"memment",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"list",
+				"Package Control: List Packages→列出插件"
+			]
+		],
+		"width": 835.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/D/学习/2016 The third/软件工程设计/bootstrap-3.3.7/docs/examples/blog/index.html",
+		"/D/学习/2016 The third/前端web入门/imooc学习纪录/ajax/XMLHttpRequestdemo.html",
+		"/D/学习/2016 The third/前端web入门/code/ajax/serverjson.php",
+		"/D/学习/2016 The third/前端web入门/code/ajax/XMLHttpRequestdemo.html",
+		"/D/学习/2016 The third/前端web入门/code/ajax/server.php",
+		"/D/学习/2016 The third/前端web入门/code/try.html",
+		"/D/学习/2016 The third/前端web入门/code/ajax/XMLHttpRequest.html",
+		"/D/学习/2016 The third/前端web入门/code/ajax/XMLHttpRequestJson.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/carousel/index.html",
+		"/D/学习/2016 The third/前端web入门/code/jjjj.html",
+		"/D/学习/2016 The third/前端web入门/学习资料/2016-08-25-天猫，梦柯，小米轮播图-keke老师/banner/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/signin/testbutton.html",
+		"/D/学习/2016 The third/软件工程设计/bootstrap-3.3.7/docs/examples/dashboard/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/signin/index.html",
+		"/D/学习/2016 The third/软件工程设计/bootstrap-3.3.7/docs/examples/sticky-footer/index.html",
+		"/D/学习/2016 The third/软件工程设计/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css",
+		"/D/学习/2016 The third/软件工程设计/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html",
+		"/D/学习/2016 The third/代码练习/test.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/non-responsive/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/blog/myimg.js",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/blog/test.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/blog/wentikuang.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/blog/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/demo/shitikuang.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/dashboard/index.html",
+		"/D/学习/2016 The third/代码练习/js.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/cover/index.html",
+		"/D/学习/2016 The third/代码练习/js.hml",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/examples/signin/signin.css",
+		"/D/学习/2016 The third/前端web入门/demo/demo/index.html",
+		"/D/学习/2016 The third/前端web入门/demo/demo/images/style.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页  2017.3.13/mystyle.css",
+		"/D/学习/2016 The third/代码练习/新建文件夹/index.html",
+		"/D/学习/2016 The third/代码练习/登陆页面/css/style.css",
+		"/D/学习/2016 The third/代码练习/新建文件夹/css/style.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页  2017.3.13/about.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页  2017.3.13/index.html",
+		"/D/学习/2016 The third/代码练习/登陆页面/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页  2017.3.13/dist/css/bootstrap.css",
+		"/D/学习/2016 The third/前端web入门/2-divcss-2.0.3-/2天驾驭DIVCSS全新发布2.0.3版本/自己的尝试/index.html",
+		"/D/学习/2016 The third/代码练习/Bootstrap中文网.html",
+		"/D/学习/2016 The third/代码练习/Prometheus - Monitoring system & time series database.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/carousel.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/assets/css/src/docs.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/LLHH试题库首页/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/mystyle.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/dist/css/bootstrap.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/about.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/dist/css/bootstrap-theme.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/index.html",
+		"/D/学习/2016 The third/代码练习/Echo Publish - The Simple Online MailMerge Service.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/dist/css/bootstrap.min.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/assets/css/ie10-viewport-bug-workaround.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/assets/css/docs.min.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/LLHH试题库首页/assets/css/docs.min.css.map",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/LLHH试题库首页/mystyle.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/LLHH试题库首页/about.html",
+		"/E/新建文本文档.js",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/dist/css/bootstrap.min.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/docs/assets/css/docs.min.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/bootstrap-3.3.7/dist/css/bootstrap.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/index.html",
+		"/D/学习/2016 The third/前端web入门/新建文件夹/demo/images/style.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs - 副本/LLHH试题库首页/carousel/carousel.css",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs - 副本/LLHH试题库首页/carousel/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs - 副本/LLHH试题库首页/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs - 副本/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs - 副本/examples/carousel/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/测试/docs/examples/carousel/index.html",
+		"/D/学习/2016 The third/前端web入门/新建文件夹/demo/index.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/部件/bootstrap的HTML标准模板.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/轮播图.html",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/试题库前端页面/轮播图.html.txt",
+		"/C/Users/Aranl_lin/Desktop/软件工程设计/pages/新建文本文档.txt",
+		"/D/学习/2016 The third/前端web入门/2-divcss-2.0.3-/2天驾驭DIVCSS全新发布2.0.3版本/浮动布局页面/index.html",
+		"/D/学习/2016 The third/前端web入门/乱码/daohanglan.html",
+		"/D/学习/2016 The third/前端web入门/乱码/try.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xmlhttp",
+			"XMLHTTP",
+			"xmlhttp",
+			"XMLHTTP",
+			"xmlhttp",
+			"innerHTML",
+			"javascript",
+			"type",
+			"open",
+			"new",
+			"XMLHttpRequest",
+			"btn btn-primary",
+			"<span>2017.3.13</span>",
+			".navbar",
+			".navbar-j",
+			".navbar",
+			"margin-bottom",
+			"navbar",
+			"margin-bottom:",
+			"navbar-jumbotron",
+			"</strong>",
+			"<strong>",
+			">",
+			"=\"#\"></",
+			"						",
+			"auto",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
