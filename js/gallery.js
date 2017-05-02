@@ -1,5 +1,5 @@
 function showPic (whichpic) {
-	if(!document.getElementById("placeholder")) {
+	if(!document.getElementById("placeholder")) {		
 		return false;
 	}
 
@@ -41,16 +41,19 @@ function insertAfter(newElement,targetElement){
 	if(parent.lastChild == targetElement){
 		parent.appendChild(newElement);
 	}else{
-		parent.inserBefore(targetElement.nextSibling);
+		parent.insertBefore(newElement,targetElement.nextSibling);
 	}
 }
 
 function preparePlaceholder(){
-	if (!document.creatElement) return false;
+
+	if (!document.createElement) return false;
 	if (!document.createTextNode) return false;
 	if (!document.getElementById) return false;
 	if (!document.getElementById("imagegallery")) return false;
 	
+
+
 	var placeholder = document.createElement("img");
 	var description = document.createElement("p");
 	var desctext = document.createTextNode("choose an image"); 

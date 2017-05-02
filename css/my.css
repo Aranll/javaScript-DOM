@@ -32,4 +32,6 @@ li{
 
 #imagegallery li a img{
 	border:0;
+	height: 110px;
 }
+
